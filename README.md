@@ -1,2 +1,2 @@
-# Neural_Field_Classifier
+# Neural-Field-Classifier
 Code will come soon.
